@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "epsi_shop (Flutter Chrome)",
+            "program": "lib/main.dart",
+            "deviceId": "chrome",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
